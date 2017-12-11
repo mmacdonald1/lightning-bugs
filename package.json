@@ -1,0 +1,26 @@
+{
+  "name": "lightning-bugs",
+  "version": "1.0.0",
+  "description": "sample animation for portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmacdonald1/lightning-bugs.git"
+  },
+  "keywords": [
+    "particles"
+  ],
+  "author": "Melanie MacDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmacdonald1/lightning-bugs/issues"
+  },
+  "homepage": "https://github.com/mmacdonald1/lightning-bugs#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "particlesjs": "^2.1.0"
+  }
+}
